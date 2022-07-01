@@ -22,4 +22,11 @@
 
 ![capitulo 3-tema  (4)](https://user-images.githubusercontent.com/105374427/176592374-70c73222-b73d-4490-aa68-13c4de29ac97.png)
 
+# 3. EXPLICACION DEL PROCEDIMIENTO
+
+
+
+# 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+  2. Visualice y trace los siguientes circuitos en serie-paralelo: 
+  ![image](https://user-images.githubusercontent.com/105374427/176799580-846e2161-88d8-41c9-94d2-e8bed4d38749.png)
 
