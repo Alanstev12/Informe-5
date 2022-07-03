@@ -370,6 +370,10 @@ SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
 
 ![image](https://user-images.githubusercontent.com/105374427/176802029-818059a9-9bc2-4d73-b18e-efe2719d7ffa.png)
 
+5. CONCLUSIONES
+
+
+6. BIBLIOGRAFÍA
 
 
 
