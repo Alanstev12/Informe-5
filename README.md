@@ -2,12 +2,13 @@
 
 
 # 1. OBJETIVOS
-
+* Conocer los circuitos en serie-paralelo y los teoremas de circuitos y conversiones, mediante la lectura de los capítulos 7 y 8 del libro "Principios de circuitos eléctricos" de Floyd, poder desarrollar correctamente los ejercicios planteados en cada capítulo.
 ##1.1 Objetivo General 
 
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+* Aplicar los nuevos metodos y teoremas para la resoluciones de ejercicios y hacer poder disminiuir la complejidad de un circuito • Leer y entender como funcionan estos metodos y en que casos su uso es mas favorecible que otros metodos como analisis de mallas o tensiones en los nodos ya que estos metodos tambien pueden llegar a servir mucho en ciertos casos.
 
 ![1](https://user-images.githubusercontent.com/105374427/176592364-4e822a4e-3db8-4e0d-baae-fbc82b723319.png)
 
