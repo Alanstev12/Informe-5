@@ -373,10 +373,13 @@ SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
 
 5. CONCLUSIONES
 
+Debemos aprender a diferenciar que metodo nos beneficia mas usarlos para reducir el tiempo y los pasos usados en su resolucion
+
+• Combinar procesos si es posible en la resolucion de los ejercicios 6. RUBRICA
 
 6. BIBLIOGRAFÍA
 
-
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson.
 
 
 
